@@ -1,0 +1,96 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: The Image Widget\n"
+"POT-Creation-Date: 2016-07-26 23:18+0300\n"
+"PO-Revision-Date: 2015-12-16 00:02+0200\n"
+"Last-Translator: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"Language-Team: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ci_image_widget.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ci_image_widget.php:32
+msgid "Upload and add an image in any of your widgetized sidebars."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: ci_image_widget.php:35
+msgid "The Image Widget"
+msgstr ""
+
+#: ci_image_widget.php:136
+msgid "Title:"
+msgstr ""
+
+#: ci_image_widget.php:149
+msgid "Link URL - If left empty the image will pop up in a lightbox"
+msgstr ""
+
+#: ci_image_widget.php:167
+msgid "Open link in new tab"
+msgstr ""
+
+#: ci_image_widget.php:173
+msgid "Image:"
+msgstr ""
+
+#: ci_image_widget.php:194
+msgid "Select Image"
+msgstr ""
+
+#: ci_image_widget.php:199
+msgid "Image size:"
+msgstr ""
+
+#: ci_image_widget.php:202
+msgctxt "Image size"
+msgid "Large"
+msgstr ""
+
+#: ci_image_widget.php:203
+msgctxt "Image size"
+msgid "Thumbnail"
+msgstr ""
+
+#: ci_image_widget.php:204
+msgctxt "Image size"
+msgid "Medium"
+msgstr ""
+
+#: ci_image_widget.php:205
+msgctxt "Image size"
+msgid "Full"
+msgstr ""
+
+#: ci_image_widget.php:207
+msgctxt "Image size"
+msgid "Post Thumbnail"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/ci-image-widget/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A simple image widget brought to you by the folks over at CSSIgniter.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "The CSSIgniter Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.cssigniter.com"
+msgstr ""
